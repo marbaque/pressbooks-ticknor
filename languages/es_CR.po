@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-01-19T23:07:56+00:00\n"
-"PO-Revision-Date: 2021-06-02 10:26-0600\n"
+"PO-Revision-Date: 2021-06-02 11:36-0600\n"
 "X-Generator: Poedit 2.4.3\n"
 "X-Domain: pressbooks-book\n"
 "Last-Translator: \n"
@@ -47,7 +47,7 @@ msgstr "https://pressbooks.com"
 
 #: 404.php:2
 msgid "Oops! That content can&rsquo;t be found."
-msgstr "¡Vaya! Ese contenido no se puede encontrar."
+msgstr "¡Ups! Ese contenido no se puede encontrar."
 
 #: 404.php:3
 msgid "It looks like nothing was found at this location. Try a search?"
@@ -248,8 +248,8 @@ msgstr[1] "Revisores"
 #: inc/helpers/namespace.php:410
 msgid "Illustrator"
 msgid_plural "Illustrators"
-msgstr[0] "Ilustración"
-msgstr[1] "Ilustración"
+msgstr[0] "Diseñador"
+msgstr[1] "Diseñadores"
 
 #: inc/helpers/namespace.php:411
 msgid "Contributor"
@@ -613,7 +613,7 @@ msgstr "Búsqueda en el libro:"
 #: searchform.php:4
 msgctxt "placeholder"
 msgid "Search in book &hellip;"
-msgstr "Buscar en el libro&hellip;"
+msgstr "Buscar en el libro"
 
 #: searchform.php:8
 msgid "Search"
